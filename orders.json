@@ -1613,5 +1613,35 @@
         ]
       }
     ]
+  },
+  {
+    "id": 59,
+    "status": "current",
+    "channel": "Grubhub",
+    "orderNumber": "403535173175776",
+    "customerName": "Kiki Getahun",
+    "receivedTime": "10:28 PM",
+    "prepareBy": "12:30 AM",
+    "pickupTime": "12:30 AM",
+    "fulfillment": "Delivery",
+    "orderNote": "",
+    "note": "Include utensils",
+    "utensilsNotNeeded": false,
+    "deliveryNote": "Please drop off food inside Shenkman Hall lobby near security, thank you!",
+    "source": "otter-pull-2026-10-31-0028",
+    "items": [
+      {
+        "qty": 1,
+        "name": "Chicken Burrito",
+        "groups": [
+          {
+            "name": "TOPPING REMOVAL BURRITO",
+            "choices": [
+              "No Takis"
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
