@@ -1547,5 +1547,71 @@
         ]
       }
     ]
+  },
+  {
+    "id": 58,
+    "status": "current",
+    "channel": "DoorDash",
+    "orderNumber": "c1d46ff8",
+    "customerName": "Mahari R.",
+    "receivedTime": "11:34 PM",
+    "prepareBy": "11:51 PM",
+    "pickupTime": "11:51 PM",
+    "fulfillment": "Pickup",
+    "orderNote": "Doordash Marketplace",
+    "note": "",
+    "utensilsNotNeeded": false,
+    "deliveryNote": "",
+    "source": "otter-pull-2026-10-30-2329-restored",
+    "items": [
+      {
+        "qty": 1,
+        "name": "Kids Cheese Quesadilla",
+        "groups": []
+      },
+      {
+        "qty": 1,
+        "name": "Chicken Tinga Tacos",
+        "groups": []
+      },
+      {
+        "qty": 1,
+        "name": "Southwest Chicken Tacos",
+        "groups": [
+          {
+            "name": "TOPPING REMOVAL SOUTHWEST CHICKEN TACOS",
+            "choices": [
+              "No Cotija Cheese",
+              "No Chipotle Aioli",
+              "No Crispy Onions"
+            ]
+          }
+        ]
+      },
+      {
+        "qty": 1,
+        "name": "Carne Asada Tacos",
+        "groups": [
+          {
+            "name": "TOPPING REMOVAL CARNE ASADA",
+            "choices": [
+              "No Onions"
+            ]
+          }
+        ]
+      },
+      {
+        "qty": 1,
+        "name": "Bang Bang Shrimp Tacos",
+        "groups": [
+          {
+            "name": "TOPPING REMOVAL TACOS",
+            "choices": [
+              "No Slaw Mix"
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
