@@ -227,7 +227,7 @@
     "pickupTime": "",
     "fulfillment": "Delivery",
     "orderNote": "",
-    "note": "Utensils not needed · SPICY HOT SAUCE ON THE SIDE",
+    "note": "Utensils not needed \u00b7 SPICY HOT SAUCE ON THE SIDE",
     "utensilsNotNeeded": true,
     "deliveryNote": "",
     "source": "otter-pull-2026-10-30-2329",
@@ -1010,7 +1010,7 @@
   },
   {
     "id": 43,
-    "status": "finished",
+    "status": "current",
     "channel": "Uber Eats",
     "orderNumber": "5A574",
     "customerName": "Tyler J.",
@@ -1135,7 +1135,7 @@
   },
   {
     "id": 58,
-    "status": "finished",
+    "status": "current",
     "channel": "DoorDash",
     "orderNumber": "c1d46ff8",
     "customerName": "Mahari R.",
@@ -1440,7 +1440,7 @@
       },
       {
         "qty": 1,
-        "name": "Jalapeño Taki Queso and Chips",
+        "name": "Jalape\u00f1o Taki Queso and Chips",
         "groups": []
       }
     ]
@@ -1641,91 +1641,6 @@
         "qty": 1,
         "name": "Street Corn in a Cup",
         "groups": []
-      }
-    ]
-  },
-  {
-    "id": 60,
-    "status": "finished",
-    "channel": "Grubhub",
-    "orderNumber": "631574217",
-    "customerName": "Bilal J",
-    "receivedTime": "11:53 PM",
-    "prepareBy": "12:24 AM",
-    "pickupTime": "12:24 AM",
-    "fulfillment": "Delivery",
-    "orderNote": "",
-    "note": "",
-    "utensilsNotNeeded": false,
-    "deliveryNote": "",
-    "source": "otter-pull-2026-10-31-0035",
-    "items": [
-      {
-        "qty": 1,
-        "name": "Build Your Own Burrito",
-        "groups": [
-          {
-            "name": "PROTEIN CHOICE FOR BURRITO",
-            "choices": [
-              "Birria"
-            ]
-          },
-          {
-            "name": "BURRITO SIZE",
-            "choices": [
-              "Regular"
-            ]
-          },
-          {
-            "name": "RICE OPTIONS FOR BURRITO",
-            "choices": [
-              "Cilantro Lime Rice"
-            ]
-          },
-          {
-            "name": "BEAN OPTIONS FOR BURRITO",
-            "choices": [
-              "Black Beans"
-            ]
-          },
-          {
-            "name": "TOPPING REMOVAL BURRITO",
-            "choices": [
-              "No Onions"
-            ]
-          }
-        ]
-      },
-      {
-        "qty": 1,
-        "name": "Build Your Own Tacos",
-        "groups": [
-          {
-            "name": "TACO PROTEIN CHOICES",
-            "choices": [
-              "Birria"
-            ]
-          },
-          {
-            "name": "TACO REMOVAL",
-            "choices": [
-              "No Onions",
-              "No Cilantro"
-            ]
-          }
-        ]
-      },
-      {
-        "qty": 1,
-        "name": "Bang Bang Shrimp Tacos",
-        "groups": [
-          {
-            "name": "TOPPING REMOVAL TACOS",
-            "choices": [
-              "No Chipotle Aioli"
-            ]
-          }
-        ]
       }
     ]
   }
