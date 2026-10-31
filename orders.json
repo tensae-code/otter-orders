@@ -520,80 +520,14 @@
     "internalId": "xzsdt"
   },
   {
-    "id": 32,
-    "status": "current",
-    "channel": "DoorDash",
-    "orderNumber": "c1d46ff8",
-    "customerName": "Mahari R.",
-    "receivedTime": "11:34 PM",
-    "prepareBy": "11:51 PM",
-    "pickupTime": "11:51 PM",
-    "fulfillment": "Pickup",
-    "orderNote": "Doordash Marketplace",
-    "note": "",
-    "utensilsNotNeeded": false,
-    "deliveryNote": "",
-    "source": "otter-pull-2026-10-30-2329",
-    "items": [
-      {
-        "qty": 1,
-        "name": "Kids Cheese Quesadilla",
-        "groups": []
-      },
-      {
-        "qty": 1,
-        "name": "Chicken Tinga Tacos",
-        "groups": []
-      },
-      {
-        "qty": 1,
-        "name": "Southwest Chicken Tacos",
-        "groups": [
-          {
-            "name": "TOPPING REMOVAL SOUTHWEST CHICKEN TACOS",
-            "choices": [
-              "No Cotija Cheese",
-              "No Chipotle Aioli",
-              "No Crispy Onions"
-            ]
-          }
-        ]
-      },
-      {
-        "qty": 1,
-        "name": "Carne Asada Tacos",
-        "groups": [
-          {
-            "name": "TOPPING REMOVAL CARNE ASADA",
-            "choices": [
-              "No Onions"
-            ]
-          }
-        ]
-      },
-      {
-        "qty": 1,
-        "name": "Bang Bang Shrimp Tacos",
-        "groups": [
-          {
-            "name": "TOPPING REMOVAL TACOS",
-            "choices": [
-              "No Slaw Mix"
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": 33,
-    "status": "finished",
+    "status": "current",
     "channel": "DoorDash",
     "orderNumber": "1ddaf90f",
     "customerName": "Kevin B",
     "receivedTime": "11:20 PM",
     "prepareBy": "11:35 PM",
-    "pickupTime": "11:35 PM",
+    "pickupTime": "",
     "fulfillment": "Pickup",
     "orderNote": "Doordash Marketplace",
     "note": "",
@@ -1526,6 +1460,88 @@
             "name": "TOPPING REMOVAL LOADED FRIES",
             "choices": [
               "No Cheese Sauce"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "status": "current",
+    "channel": "DoorDash",
+    "orderNumber": "891a319e",
+    "customerName": "Jayla T",
+    "receivedTime": "11:22 PM",
+    "prepareBy": "",
+    "pickupTime": "",
+    "fulfillment": "Delivery",
+    "orderNote": "Doordash Marketplace",
+    "note": "",
+    "utensilsNotNeeded": false,
+    "deliveryNote": "",
+    "source": "otter-pull-2026-10-30-2348",
+    "items": [
+      {
+        "qty": 1,
+        "name": "Biscoff Churros",
+        "groups": []
+      },
+      {
+        "qty": 2,
+        "name": "Add Extra Taco",
+        "groups": [
+          {
+            "name": "TACO ADDITION",
+            "choices": [
+              "Birria Taco"
+            ]
+          }
+        ]
+      },
+      {
+        "qty": 1,
+        "name": "Birria Tacos",
+        "groups": [
+          {
+            "name": "TOPPING REMOVAL BIRRIA TACOS",
+            "choices": [
+              "No Onions"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "status": "current",
+    "channel": "Uber Eats",
+    "orderNumber": "75805",
+    "customerName": "Lewis P.",
+    "receivedTime": "11:23 PM",
+    "prepareBy": "",
+    "pickupTime": "",
+    "fulfillment": "Delivery",
+    "orderNote": "",
+    "note": "Utensils not needed",
+    "utensilsNotNeeded": true,
+    "deliveryNote": "",
+    "source": "otter-pull-2026-10-30-2348",
+    "items": [
+      {
+        "qty": 1,
+        "name": "Mexican Cola",
+        "groups": []
+      },
+      {
+        "qty": 1,
+        "name": "Street Corn Nachos",
+        "groups": [
+          {
+            "name": "PROTEIN CHOICE STREET CORN NACHOS",
+            "choices": [
+              "Chicken"
             ]
           }
         ]
