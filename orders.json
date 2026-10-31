@@ -13,7 +13,7 @@
     "note": "Utensils not needed",
     "utensilsNotNeeded": true,
     "deliveryNote": "",
-    "source": "otter-pull-2026-10-30-2202",
+    "source": "otter-pull-2026-10-30-2329",
     "items": [
       {
         "qty": 1,
@@ -60,7 +60,7 @@
     "note": "",
     "utensilsNotNeeded": false,
     "deliveryNote": "",
-    "source": "otter-pull-2026-10-30-2202",
+    "source": "otter-pull-2026-10-30-2329",
     "items": [
       {
         "qty": 1,
@@ -71,19 +71,19 @@
   },
   {
     "id": 19,
-    "status": "current",
+    "status": "finished",
     "channel": "Uber Eats",
     "orderNumber": "99BC5",
     "customerName": "julian W.",
     "receivedTime": "7:08 PM",
     "prepareBy": "",
-    "pickupTime": "",
+    "pickupTime": "11:15 PM",
     "fulfillment": "Pickup",
     "orderNote": "",
     "note": "Utensils not needed",
     "utensilsNotNeeded": true,
     "deliveryNote": "",
-    "source": "otter-pull-2026-10-30-2202",
+    "source": "otter-pull-2026-10-30-2329",
     "items": [
       {
         "qty": 1,
@@ -126,7 +126,7 @@
     "note": "",
     "utensilsNotNeeded": false,
     "deliveryNote": "",
-    "source": "otter-pull-2026-10-30-2202",
+    "source": "otter-pull-2026-10-30-2329",
     "items": [
       {
         "qty": 1,
@@ -210,7 +210,7 @@
     "note": "",
     "utensilsNotNeeded": false,
     "deliveryNote": "",
-    "source": "otter-pull-2026-10-30-2202",
+    "source": "otter-pull-2026-10-30-2329",
     "items": [
       {
         "qty": 1,
@@ -245,7 +245,7 @@
     "note": "",
     "utensilsNotNeeded": false,
     "deliveryNote": "",
-    "source": "otter-pull-2026-10-30-2202",
+    "source": "otter-pull-2026-10-30-2329",
     "items": [
       {
         "qty": 1,
@@ -276,7 +276,7 @@
     "note": "",
     "utensilsNotNeeded": false,
     "deliveryNote": "",
-    "source": "otter-pull-2026-10-30-2202",
+    "source": "otter-pull-2026-10-30-2329",
     "items": [
       {
         "qty": 1,
@@ -312,7 +312,7 @@
     "note": "Utensils not needed · SPICY HOT SAUCE ON THE SIDE",
     "utensilsNotNeeded": true,
     "deliveryNote": "",
-    "source": "otter-pull-2026-10-30-2202",
+    "source": "otter-pull-2026-10-30-2329",
     "items": [
       {
         "qty": 1,
@@ -352,7 +352,7 @@
     "note": "",
     "utensilsNotNeeded": false,
     "deliveryNote": "",
-    "source": "otter-pull-2026-10-30-2202",
+    "source": "otter-pull-2026-10-30-2329",
     "items": [
       {
         "qty": 1,
@@ -375,7 +375,7 @@
     "note": "",
     "utensilsNotNeeded": false,
     "deliveryNote": "",
-    "source": "otter-pull-2026-10-30-2202",
+    "source": "otter-pull-2026-10-30-2329",
     "items": [
       {
         "qty": 1,
@@ -403,7 +403,7 @@
     "note": "Utensils not needed",
     "utensilsNotNeeded": true,
     "deliveryNote": "",
-    "source": "otter-pull-2026-10-30-2202",
+    "source": "otter-pull-2026-10-30-2329",
     "items": [
       {
         "qty": 1,
@@ -489,7 +489,7 @@
     "note": "No utensils",
     "utensilsNotNeeded": true,
     "deliveryNote": "",
-    "source": "otter-pull-2026-10-30-2202",
+    "source": "otter-pull-2026-10-30-2329",
     "items": [
       {
         "qty": 1,
@@ -518,5 +518,409 @@
       }
     ],
     "internalId": "xzsdt"
+  },
+  {
+    "id": 32,
+    "status": "current",
+    "channel": "DoorDash",
+    "orderNumber": "c1d46ff8",
+    "customerName": "Mahari R.",
+    "receivedTime": "11:34 PM",
+    "prepareBy": "11:51 PM",
+    "pickupTime": "11:51 PM",
+    "fulfillment": "Pickup",
+    "orderNote": "Doordash Marketplace",
+    "note": "",
+    "utensilsNotNeeded": false,
+    "deliveryNote": "",
+    "source": "otter-pull-2026-10-30-2329",
+    "items": [
+      {
+        "qty": 1,
+        "name": "Kids Cheese Quesadilla",
+        "groups": []
+      },
+      {
+        "qty": 1,
+        "name": "Chicken Tinga Tacos",
+        "groups": []
+      },
+      {
+        "qty": 1,
+        "name": "Southwest Chicken Tacos",
+        "groups": [
+          {
+            "name": "TOPPING REMOVAL SOUTHWEST CHICKEN TACOS",
+            "choices": [
+              "No Cotija Cheese",
+              "No Chipotle Aioli",
+              "No Crispy Onions"
+            ]
+          }
+        ]
+      },
+      {
+        "qty": 1,
+        "name": "Carne Asada Tacos",
+        "groups": [
+          {
+            "name": "TOPPING REMOVAL CARNE ASADA",
+            "choices": [
+              "No Onions"
+            ]
+          }
+        ]
+      },
+      {
+        "qty": 1,
+        "name": "Bang Bang Shrimp Tacos",
+        "groups": [
+          {
+            "name": "TOPPING REMOVAL TACOS",
+            "choices": [
+              "No Slaw Mix"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "status": "finished",
+    "channel": "DoorDash",
+    "orderNumber": "1ddaf90f",
+    "customerName": "Kevin B",
+    "receivedTime": "11:20 PM",
+    "prepareBy": "11:35 PM",
+    "pickupTime": "11:35 PM",
+    "fulfillment": "Pickup",
+    "orderNote": "Doordash Marketplace",
+    "note": "",
+    "utensilsNotNeeded": false,
+    "deliveryNote": "",
+    "source": "otter-pull-2026-10-30-2329",
+    "internalId": "b6c9e75d-c0d2-438d-b366-9847fe354440",
+    "items": [
+      {
+        "qty": 1,
+        "name": "Jarritos",
+        "groups": [
+          {
+            "name": "SELECT JARRITOS FLAVOR",
+            "choices": [
+              "Strawberry"
+            ]
+          }
+        ]
+      },
+      {
+        "qty": 1,
+        "name": "Steak Burrito",
+        "groups": [
+          {
+            "name": "TOPPING REMOVAL BURRITO",
+            "choices": [
+              "No Refried Beans",
+              "No Pico de Gallo"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "status": "finished",
+    "channel": "Owner.com",
+    "orderNumber": "a4emMZVeRCPe",
+    "customerName": "Adrian Mart",
+    "receivedTime": "9:46 PM",
+    "prepareBy": "10:57 PM",
+    "pickupTime": "10:57 PM",
+    "fulfillment": "Pickup",
+    "orderNote": "",
+    "note": "Utensils & Napkins: None",
+    "utensilsNotNeeded": true,
+    "deliveryNote": "",
+    "source": "otter-pull-2026-10-30-2329",
+    "items": [
+      {
+        "qty": 1,
+        "name": "Birria Tacos",
+        "groups": [
+          {
+            "name": "TOPPING REMOVAL BIRRIA TACOS",
+            "choices": [
+              "No Onions"
+            ]
+          }
+        ]
+      },
+      {
+        "qty": 1,
+        "name": "Chicken Tinga Tacos",
+        "groups": []
+      },
+      {
+        "qty": 1,
+        "name": "Carne Asada Tacos",
+        "groups": [
+          {
+            "name": "TOPPING REMOVAL CARNE ASADA",
+            "choices": [
+              "No Onions"
+            ]
+          }
+        ]
+      },
+      {
+        "qty": 1,
+        "name": "Bang Bang Shrimp Tacos",
+        "groups": [
+          {
+            "name": "TOPPING REMOVAL",
+            "choices": [
+              "No Onions"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "status": "finished",
+    "channel": "DoorDash",
+    "orderNumber": "7df0c5f4",
+    "customerName": "Laylah J",
+    "receivedTime": "9:50 PM",
+    "prepareBy": "",
+    "pickupTime": "",
+    "fulfillment": "Delivery",
+    "orderNote": "Doordash Marketplace",
+    "note": "",
+    "utensilsNotNeeded": false,
+    "deliveryNote": "",
+    "source": "otter-pull-2026-10-30-2329",
+    "items": [
+      {
+        "qty": 1,
+        "name": "Birria Ramen",
+        "groups": []
+      },
+      {
+        "qty": 1,
+        "name": "Chicken Rice Bowl",
+        "groups": [
+          {
+            "name": "EXTRA RICE BOWL PROTEIN",
+            "choices": [
+              "Chicken"
+            ]
+          },
+          {
+            "name": "SIDE CHOICE RICE BOWLS",
+            "choices": [
+              "Black Beans"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "status": "finished",
+    "channel": "Uber Eats",
+    "orderNumber": "D3F23",
+    "customerName": "Ben G.",
+    "receivedTime": "9:56 PM",
+    "prepareBy": "",
+    "pickupTime": "",
+    "fulfillment": "Delivery",
+    "orderNote": "",
+    "note": "Utensils not needed",
+    "utensilsNotNeeded": true,
+    "deliveryNote": "DELIVER_TO_DOOR",
+    "source": "otter-pull-2026-10-30-2329",
+    "items": [
+      {
+        "qty": 1,
+        "name": "Bean Burrito",
+        "groups": [
+          {
+            "name": "TOPPING REMOVAL BURRITO",
+            "choices": [
+              "No Refried Beans"
+            ]
+          }
+        ]
+      },
+      {
+        "qty": 1,
+        "name": "Chicken Tinga Tacos",
+        "groups": []
+      },
+      {
+        "qty": 1,
+        "name": "Kids Cheese Quesadilla",
+        "groups": []
+      },
+      {
+        "qty": 1,
+        "name": "Churro Bites",
+        "groups": []
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "status": "finished",
+    "channel": "Owner.com",
+    "orderNumber": "6nVbdZLzP0sF",
+    "customerName": "Erin Washington",
+    "receivedTime": "3:35 PM",
+    "prepareBy": "4:57 PM",
+    "pickupTime": "4:57 PM",
+    "fulfillment": "Pickup",
+    "orderNote": "",
+    "note": "Utensils & Napkins: None",
+    "utensilsNotNeeded": true,
+    "deliveryNote": "",
+    "source": "otter-pull-2026-10-30-2329",
+    "items": [
+      {
+        "qty": 1,
+        "name": "Chicken Tinga Tacos",
+        "groups": []
+      },
+      {
+        "qty": 1,
+        "name": "Southwest Chicken Tacos",
+        "groups": []
+      },
+      {
+        "qty": 1,
+        "name": "Carne Asada Tacos",
+        "groups": [
+          {
+            "name": "TOPPING REMOVAL CARNE ASADA",
+            "choices": [
+              "No Chihuahua Cheese"
+            ]
+          }
+        ]
+      },
+      {
+        "qty": 1,
+        "name": "Bang Bang Shrimp Tacos",
+        "groups": []
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "status": "finished",
+    "channel": "Grubhub",
+    "orderNumber": "725535160035163",
+    "customerName": "Bukunmi Sanyaolubena",
+    "receivedTime": "10:53 PM",
+    "prepareBy": "",
+    "pickupTime": "",
+    "fulfillment": "Delivery",
+    "orderNote": "",
+    "note": "Utensils not needed",
+    "utensilsNotNeeded": true,
+    "deliveryNote": "please hand the food directly to me",
+    "source": "otter-pull-2026-10-30-2329",
+    "items": [
+      {
+        "qty": 1,
+        "name": "Birria Burrito",
+        "groups": [
+          {
+            "name": "TOPPING REMOVAL BURRITO",
+            "choices": [
+              "No Chihuahua Cheese",
+              "No Onions"
+            ]
+          }
+        ]
+      },
+      {
+        "qty": 1,
+        "name": "Chicken Burrito",
+        "groups": [
+          {
+            "name": "TOPPING REMOVAL BURRITO",
+            "choices": [
+              "No Pico de Gallo"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "status": "finished",
+    "channel": "DoorDash",
+    "orderNumber": "7621d016",
+    "customerName": "Karen V",
+    "receivedTime": "10:07 PM",
+    "prepareBy": "",
+    "pickupTime": "",
+    "fulfillment": "Delivery",
+    "orderNote": "Doordash Marketplace",
+    "note": "",
+    "utensilsNotNeeded": false,
+    "deliveryNote": "",
+    "source": "otter-pull-2026-10-30-2329",
+    "items": [
+      {
+        "qty": 1,
+        "name": "Guacamole and Chips",
+        "groups": []
+      },
+      {
+        "qty": 1,
+        "name": "Street Corn in a Cup",
+        "groups": []
+      },
+      {
+        "qty": 1,
+        "name": "Birria Tacos",
+        "groups": [
+          {
+            "name": "TOPPING REMOVAL BIRRIA TACOS",
+            "choices": [
+              "No Onions"
+            ]
+          }
+        ]
+      },
+      {
+        "qty": 1,
+        "name": "Chicken Tinga Tacos",
+        "groups": []
+      },
+      {
+        "qty": 1,
+        "name": "Southwest Chicken Burrito",
+        "groups": [
+          {
+            "name": "TOPPING REMOVAL BURRITO",
+            "choices": [
+              "No Pico de Gallo",
+              "No Fries",
+              "No Chipotle Aioli",
+              "No Chihuahua Cheese",
+              "No Lettuce"
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
