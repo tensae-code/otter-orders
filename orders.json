@@ -859,7 +859,7 @@
   },
   {
     "id": 40,
-    "status": "current",
+    "status": "cancelled",
     "channel": "DoorDash",
     "orderNumber": "1d01345e",
     "customerName": "Fernando V",
@@ -1515,7 +1515,7 @@
   },
   {
     "id": 57,
-    "status": "current",
+    "status": "finished",
     "channel": "Uber Eats",
     "orderNumber": "75805",
     "customerName": "Lewis P.",
