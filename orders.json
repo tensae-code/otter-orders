@@ -873,7 +873,7 @@
   },
   {
     "id": 33,
-    "status": "finished",
+    "status": "current",
     "channel": "DoorDash",
     "orderNumber": "1ddaf90f",
     "customerName": "Kevin B",
@@ -917,7 +917,7 @@
   },
   {
     "id": 56,
-    "status": "current",
+    "status": "finished",
     "channel": "DoorDash",
     "orderNumber": "891a319e",
     "customerName": "Jayla T",
@@ -1056,7 +1056,7 @@
   },
   {
     "id": 44,
-    "status": "current",
+    "status": "finished",
     "channel": "DoorDash",
     "orderNumber": "8ece09ba",
     "customerName": "Mackenzie F",
@@ -1089,7 +1089,7 @@
   },
   {
     "id": 45,
-    "status": "current",
+    "status": "finished",
     "channel": "DoorDash",
     "orderNumber": "5a2c9676",
     "customerName": "Madison M",
@@ -1135,7 +1135,7 @@
   },
   {
     "id": 58,
-    "status": "finished",
+    "status": "current",
     "channel": "DoorDash",
     "orderNumber": "c1d46ff8",
     "customerName": "Mahari R.",
@@ -1236,7 +1236,7 @@
   },
   {
     "id": 47,
-    "status": "current",
+    "status": "finished",
     "channel": "Uber Eats",
     "orderNumber": "69092",
     "customerName": "Thomas W.",
@@ -1269,7 +1269,7 @@
   },
   {
     "id": 48,
-    "status": "current",
+    "status": "finished",
     "channel": "DoorDash",
     "orderNumber": "abe27726",
     "customerName": "mimi o",
@@ -1353,7 +1353,7 @@
   },
   {
     "id": 50,
-    "status": "current",
+    "status": "finished",
     "channel": "DoorDash",
     "orderNumber": "e6b35436",
     "customerName": "Mandy T",
